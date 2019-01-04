@@ -1,0 +1,7 @@
+C:\Users\rgarrod\Dropbox\Programming Projects\Library\Library.Core\bin\Debug\Library.Core.dll
+C:\Users\rgarrod\Dropbox\Programming Projects\Library\Library.Core\bin\Debug\Library.Core.pdb
+C:\Users\rgarrod\Dropbox\Programming Projects\Library\Library.Core\bin\Debug\Library.DAL.dll
+C:\Users\rgarrod\Dropbox\Programming Projects\Library\Library.Core\bin\Debug\Library.DAL.pdb
+C:\Users\rgarrod\Dropbox\Programming Projects\Library\Library.Core\obj\Debug\Library.Core.csprojResolveAssemblyReference.cache
+C:\Users\rgarrod\Dropbox\Programming Projects\Library\Library.Core\obj\Debug\Library.Core.dll
+C:\Users\rgarrod\Dropbox\Programming Projects\Library\Library.Core\obj\Debug\Library.Core.pdb

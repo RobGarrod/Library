@@ -1,0 +1,5 @@
+C:\Users\rgarrod\Dropbox\Programming Projects\Library\Library.Database\bin\Debug\Library.Database.dacpac
+C:\Users\rgarrod\Dropbox\Programming Projects\Library\Library.Database\bin\Debug\Library.Database.dll
+C:\Users\rgarrod\Dropbox\Programming Projects\Library\Library.Database\bin\Debug\Library.Database.pdb
+C:\Users\rgarrod\Dropbox\Programming Projects\Library\Library.Database\obj\Debug\Library.Database.dll
+C:\Users\rgarrod\Dropbox\Programming Projects\Library\Library.Database\obj\Debug\Library.Database.pdb

@@ -1,0 +1,5 @@
+C:\Users\rgarrod\Dropbox\Programming Projects\Library\Library.DAL\bin\Debug\Library.DAL.dll
+C:\Users\rgarrod\Dropbox\Programming Projects\Library\Library.DAL\bin\Debug\Library.DAL.pdb
+C:\Users\rgarrod\Dropbox\Programming Projects\Library\Library.DAL\obj\Debug\Library.DAL.dll
+C:\Users\rgarrod\Dropbox\Programming Projects\Library\Library.DAL\obj\Debug\Library.DAL.pdb
+C:\Users\rgarrod\Dropbox\Programming Projects\Library\Library.DAL\obj\Debug\Library.DAL.csprojResolveAssemblyReference.cache
